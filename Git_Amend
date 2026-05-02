@@ -1,8 +1,4 @@
 Create a Git Amend file.
 File is in staging area.
-<<<<<<< HEAD
 Commit message is added.
 New changes.
-=======
-Commit message is added.
->>>>>>> bfa0eb204e7b874f17c68fed7bbcb672c5029ac2
